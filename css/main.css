@@ -1,0 +1,53 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+}
+
+#top {
+	background: white;
+	padding-top: 50px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#section-1 {
+	background: #e9e9e9;
+	padding-top: 50px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#section-2 {
+    background: url('../img/morning.png') no-repeat center center fixed;
+    height: 500px;
+    margin: 0 auto;
+    background-size: cover;
+    width: 100%;
+    padding-top: 50px;
+}
+
+#section-3 {
+	padding-top: 50px;
+	background: #e9e9e9;
+	width: 100%;
+	height: 100%;
+}
